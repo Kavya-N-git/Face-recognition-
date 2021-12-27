@@ -1,2 +1,2 @@
 # Face-recognition-
-This project is of Face Recognition and deploying it into Heroku cloud
+This project is of Real time Face Recognition.
